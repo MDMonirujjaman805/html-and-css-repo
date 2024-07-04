@@ -1,3 +1,32 @@
 h2{
   color: brown;
 }
+div{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(148, 124, 124);
+}
+body{
+  background-color: rgb(105, 85, 85);
+}
+.green{
+  width: 350px;
+  height: 250px;
+  background-color: green;
+  padding-top: 75px;
+  padding-left: 300px;
+  border-radius: 15px;
+}
+.red{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: red;
+
+}
+.lathi{
+  width: 20px;
+  height: 750px;
+  background-color: black;
+  border-radius: 20px;
+}
