@@ -1,5 +1,9 @@
 h2{
   color: brown;
+  font-size: larger;
+  font-size: 50px;
+  text-align: center;
+  text-transform: capitalize;
 }
 div{
   width: 100px;
@@ -29,4 +33,29 @@ background-color: red;
   height: 750px;
   background-color: black;
   border-radius: 20px;
+}
+p{
+  font-size: 35px;
+  background-color: rgb(156, 138, 138);
+  font-weight: bolder;
+  width: 500px;
+  text-align: center;
+  font-style: normal;
+  font-variant: initial;
+  text-transform: capitalize;
+  /* padding-top: 40px; */
+}
+.head{
+  width: 500px;
+  border: 2px solid black;
+  height: 150px;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  border-radius: 10px;
+}
+*{
+  margin: 0px;
+  padding: 0px;
 }
